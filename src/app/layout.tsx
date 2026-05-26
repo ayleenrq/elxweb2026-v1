@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "eluxspace — AI-Native Digital Products",
+  title: "elux — AI-Native Digital Products",
   description:
     "We design and build AI-native digital products. From product strategy to launch — refined, fast, and intelligent.",
   keywords: [

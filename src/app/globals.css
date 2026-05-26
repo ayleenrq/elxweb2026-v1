@@ -106,3 +106,23 @@ body {
   background: rgba(59, 107, 247, 0.25);
   color: #ffffff;
 }
+
+/* ─── Hide scrollbar utility (for carousels) ─── */
+.hide-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* ─── Drag scroll gallery ─── */
+.scrollbar-hide {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
